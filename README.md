@@ -1,9 +1,9 @@
 CU Boulder MSDS course work <br>
 DTSA 5799 Unupervised Text Classification for Marketing Analytics <br>
 
-# Amazon Product Review . Topic Model
+## Amazon Product Review . Topic Model
 
-## Tast & Data
+### Tast & Data
 
 The purpose of this project is to train a suitable **topic model** to cluster consumer reviews of products. After classification, feasible marketing and product insights can be extracted from each topic.
 
@@ -16,8 +16,7 @@ The [Amazon product database](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/
 <br>
 
 
-
-## Model & Evaluation
+### Model & Evaluation
 
 |||
 |---|---|
@@ -29,8 +28,9 @@ The [Amazon product database](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/
 k, beta, alpha = 24, 1, 1/24<br>
 <img src="pic/pyLDAvis_24_1_1.png" alt="LDAVis" width="600"/>
 
+<br>
 
-## Topic Reviews Analysis
+### Topic Reviews Analysis
 
 example
 
