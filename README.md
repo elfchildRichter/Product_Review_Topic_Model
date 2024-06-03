@@ -18,12 +18,20 @@ The [Amazon product database](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/
 
 ### Model & Evaluation
 
+beta = 0.1, .05, 1 <br>
+alpha = 0.5*(1/k), 1/k, 5*(1/k) <br>
+k = 1, 6, 11, 16, 21, 26, 31, 36, 41, 46 <br>
+dtms = dtm_bg, dtm_sm
 |||
 |---|---|
 | beta, alpha = 0.1, 0.5*(1/k) | beta, alpha = 0.1, 1*(1/k) |
 |<img src='pic/01_05.png' height='120'>|<img src='pic/01_1.png' height='120'>|
 | beta, alpha = 1, 0.5*(1/k) | beta, alpha = 1, 1*(1/k) |
 |<img src='pic/1_05.png' height='120'>|<img src='pic/1_1.png' height='120'>|
+dtm_bg
+<br>
+
+### Final Model
 
 k, beta, alpha = 24, 1, 1/24<br>
 <img src="pic/pyLDAvis_24_1_1.png" alt="LDAVis" width="600"/>
