@@ -36,7 +36,7 @@ example
 
 **Topic: 18_return_order_pay**
 
-<img src='pic/return_order_pay.png' height='200'> <img src='pic/reviews_18.png' height='250'>
+<img src='pic/return_order_pay_wbg.png' height='200'> <img src='pic/reviews_18.png' height='250'>
 <br>
 
 |Most Reviewed Products| Features/Issues |Recommendations|
@@ -49,7 +49,7 @@ example
 
 **Topic: 21_watch_band_wrist**
 
-<img src='pic/watch_band_wrist.png' height='200'> <img src='pic/reviews_21.png' height='250'>
+<img src='pic/watch_band_wrist_wbg.png' height='200'> <img src='pic/reviews_21.png' height='250'>
 <br>
 
 |Most Reviewed Products | Features/Issues | Recommendations |
