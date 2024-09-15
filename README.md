@@ -1,5 +1,5 @@
-CU Boulder MSDS course work <br>
-DTSA 5799 Unupervised Text Classification for Marketing Analytics <br>
+CU Boulder MSDS DTSA 5799<br>
+Unupervised Text Classification for Marketing Analytics <br>
 
 ## Amazon Product Review . Topic Model
 
